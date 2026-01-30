@@ -24,7 +24,7 @@ I'm an aspiring **Full-Stack MERN Developer** passionate about building modern, 
 * 🟨 JavaScript (ES6+)
 * 🌐 HTML5
 * 🎨 CSS3
-* 🧩 Tailwind CSS / Bootstrap
+* 🧩 Bootstrap
 
 ### Backend
 
