@@ -69,8 +69,8 @@ I'm an aspiring **Full-Stack MERN Developer** passionate about building modern, 
 
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: *[Add your LinkedIn link](https://www.linkedin.com/in/vishvapatel1126/)*
-* 🌐 Portfolio: *[Add your portfolio link](https://portfolio-nagg.onrender.com/)*
+* 💼 LinkedIn: *[linkedIn](https://www.linkedin.com/in/vishvapatel1126/)*
+* 🌐 Portfolio: *[Portfolio](https://portfolio-nagg.onrender.com/)*
 * 📧 Email: *vishvapatel764@gmail.com*
 
 ---
